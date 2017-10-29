@@ -1,0 +1,17 @@
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\obj\Debug\B2EGroup.ShortenUrl.Apps.csprojResolveAssemblyReference.cache
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\obj\Debug\B2EGroup.ShortenUrl.Apps.csproj.CoreCompileInputs.cache
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\B2EGroup.ShortenUrl.Apps.dll.config
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\B2EGroup.ShortenUrl.Apps.dll
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\B2EGroup.ShortenUrl.Apps.pdb
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\B2EGroup.ShortenUrl.Models.dll
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\B2EGroup.ShortenUrl.ViewModels.dll
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\EntityFramework.dll
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\EntityFramework.SqlServer.dll
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\B2EGroup.ShortenUrl.Models.pdb
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\B2EGroup.ShortenUrl.Models.dll.config
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\B2EGroup.ShortenUrl.ViewModels.pdb
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\B2EGroup.ShortenUrl.ViewModels.dll.config
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\EntityFramework.xml
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\bin\Debug\EntityFramework.SqlServer.xml
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\obj\Debug\B2EGroup.ShortenUrl.Apps.dll
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Apps\obj\Debug\B2EGroup.ShortenUrl.Apps.pdb

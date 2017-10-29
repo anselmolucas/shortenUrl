@@ -1,0 +1,13 @@
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\bin\Debug\B2EGroup.ShortenUrl.Models.dll.config
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\bin\Debug\B2EGroup.ShortenUrl.Models.dll
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\bin\Debug\B2EGroup.ShortenUrl.Models.pdb
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\bin\Debug\EntityFramework.dll
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\bin\Debug\EntityFramework.SqlServer.dll
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\bin\Debug\EntityFramework.xml
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\bin\Debug\EntityFramework.SqlServer.xml
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\obj\Debug\B2EGroup.ShortenUrl.Models.csprojResolveAssemblyReference.cache
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\obj\Debug\B2EGroup.ShortenUrl.Models.csproj.CoreCompileInputs.cache
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\obj\Debug\B2EGroup.ShortenUrl.Models.dll
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\obj\Debug\B2EGroup.ShortenUrl.Models.pdb
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\obj\Debug\B2EGroup.ShortenUrl.Models.Migrations.version_1.resources
+A:\www\examples\webApi\shortenUrl\B2EGroup.ShortenUrl\shortenUrl1\B2EGroup.ShortenUrl.Models\obj\Debug\B2EGroup.ShortenUrl.Models.csproj.GenerateResource.Cache
