@@ -51,10 +51,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\B2EGroup.ShortenUrl.Dal\B2EGroup.ShortenUrl.Dal.csproj">
-      <Project>{81d7df28-9f08-4b71-a0be-ff390af44a6d}</Project>
-      <Name>B2EGroup.ShortenUrl.Dal</Name>
-    </ProjectReference>
     <ProjectReference Include="..\B2EGroup.ShortenUrl.Models\B2EGroup.ShortenUrl.Models.csproj">
       <Project>{b8af32ff-b678-49b2-b4b7-42059b348ad2}</Project>
       <Name>B2EGroup.ShortenUrl.Models</Name>

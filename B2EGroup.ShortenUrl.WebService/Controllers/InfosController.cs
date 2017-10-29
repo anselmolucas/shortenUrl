@@ -13,7 +13,7 @@ namespace B2EGroup.ShortenUrl.WebService.Controllers
 {
     public class InfosController : Controller
     {
-        string baseurl = "http://localhost:60691/";
+        string baseurl = "http://localhost:59754/";
 
         public async Task<ActionResult> Index()
         {
