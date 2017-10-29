@@ -1,0 +1,39 @@
+﻿@model B2EGroup.ShortenUrl.ViewModels.StatusResult
+@{
+    ViewBag.Title = "Informações do sistema";
+    int register = 1;
+}
+<br /><br />
+<div class="jumbotron">
+    <h2>GET /stats</h2>
+
+    <h3>Hits totais: @Model.Hits</h3>
+    <h3>Quantidade de URLs: @Model.UrlsCount</h3>
+</div>
+
+<br />
+<h2>Top Urls</h2>
+@if (Model.Urls != null)
+{
+    foreach (var item in Model.Urls)
+    {
+        <div class="panel panel-default">
+            <div class="panel panel-heading">
+                #@register
+            </div>
+            <div class="panel panel-body">
+                <span>ID: @item.Id</span><br />
+                <span>Hits: @item.Hits</span><br />
+                <span>Url: @item.LongUrl</span><br />
+                <span>Short Url: @item.ShortUrl</span><br />
+            </div>
+        </div>
+        register++;
+    }
+}
+else
+{
+    <h4>sem urls cadastradas até o momento...</h4>
+}
+
+

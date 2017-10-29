@@ -1,0 +1,25 @@
+﻿<div class="jumbotron">
+    <h1>Encurtador de URLs</h1>
+    <p class="lead">Esse site faz parte do processo seletivo do B2E Group</p>
+    <p class="lead">É um API que encurta URLs</p>
+    
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Documentação</h2>
+        <p>Aqui você encontrará informações básicas sobre como usar o Encurtador de URLs</p>
+        <p><a class="btn btn-default" href="@Url.Action("Index","Help")">veja &raquo;</a></p>
+    </div>
+    
+    <div class="col-md-4">
+        <h2>Informações</h2>
+        <p>Aqui você encontrará as estatísticas do site, número de hits, URLs cadastradas, TOP 10 com as URLs mais acessadas</p>
+        <p><a class="btn btn-default" href="@Url.Action("Index","Infos")">veja &raquo;</a></p>
+    </div>
+
+    <div class="col-md-4">
+        <h2>Limpa as tabelas</h2>
+        <p>Executa o comando "TRUNCATE TABLE" nas tabelas do sistema (Urls e Users)</p>
+        <p><a class="btn btn-default" href="@Url.Action("ClearAllTables","Home")">executar limpeza &raquo;</a></p>
+    </div>
+</div>
